@@ -34,7 +34,7 @@ The Car Mileage Predictor is a calculator of Miles Per Gallon (MPG) of a hypothe
 
 - Last check if the transmission is manual or leave unchecked for automatic
 
-The Predictive Model and analysis are available for scrutiny at: 
+The Predictive Model and analysis are available for scrutiny at: https://fhasbani.shinyapps.io/MPG-Predictor-Data-Product
 
 
 --- .class #id 
